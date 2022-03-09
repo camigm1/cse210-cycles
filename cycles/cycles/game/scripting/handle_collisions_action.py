@@ -85,3 +85,20 @@ class HandleCollisionsAction(Action):
         #         segment.set_color(constants.WHITE)
         #     food.set_color(constants.WHITE)
         pass
+
+
+
+# player1_score = Score()
+
+# player2_score = Score()
+
+# player1_score.add_points(1)
+
+
+
+# if player1 collides with player2:
+#     player1_score will subtract points        
+#     set message on scoreboard
+# else player2 collides with player1:
+#     then player2 score will lose points   
+#     set message on scoreboard
